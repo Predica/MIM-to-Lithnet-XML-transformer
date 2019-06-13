@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Lithnet.ResourceManagement.ConfigSync.Variables>
+
+<Variable name="#PORTAL_LINK#" value="https://idm.contoso.com/IdentityManagement"/>
+<Variable name="#ADMA_ACCOUNTNAME#" value="&quot;contoso\mimmaad&quot;"/>
+<Variable name="#MAIL_SUFFIX#" value="@contoso.com"/>
+<Variable name="#GLOBAL_CATALOG#" value="GC://DC=contoso,DC=com"/>
+
+
+</Lithnet.ResourceManagement.ConfigSync.Variables>
